@@ -1,0 +1,5 @@
+{
+  "name": "Flow Controller System",
+  "description": "A system flow controller currently in idle state, awaiting module activation instructions.",
+  "requestFramePermissions": []
+}
